@@ -1,0 +1,9 @@
+name: Owandir blog
+url: http://owandir.github.io
+description: Lets dive into cloud computing conundrums and easy bits as well
+
+permalink: /:year/:month/:day/:title/
+paginate: 20
+
+plugins: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

@@ -1,0 +1,6 @@
+gem 'jekyll'
+gem 'kramdown'
+gem 'jekyll-paginate'
+gem 'rouge'
+
+
